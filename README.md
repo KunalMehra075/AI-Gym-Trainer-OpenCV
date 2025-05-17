@@ -4,7 +4,7 @@ An AI-powered Virtual Gym Trainer 🏋️ using OpenCV and MediaPipe that counts
 
 ## 🖼 Demo
 
-![Catosaurous](https://media.giphy.com/media/DvO3mZorxl6Te/giphy.gif?cid=ecf05e478m3s8n98k836i9zbb8jjqmu81ahzktrro11h1uef&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+![Demo](assets/Demo.gif)
 
 ## How to run:
 
@@ -17,7 +17,7 @@ An AI-powered Virtual Gym Trainer 🏋️ using OpenCV and MediaPipe that counts
 2.  **Run the application:**
 
     ```bash
-    python AIGymTrainer.py
+    python virtualsGymTrainer.py
     ```
 
 ## Project Description
@@ -47,5 +47,5 @@ This project utilizes computer vision techniques 👀 to track body movements du
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
-Contributions are welcome! 🙏 If you have any ideas for improvements, feel free to submit a pull request.
+Contributions are welcome! 🙏 If you have any ideas for improvements, feel free to submit a pull request.\
 Follow me for more exciting projects like this! 🤩
